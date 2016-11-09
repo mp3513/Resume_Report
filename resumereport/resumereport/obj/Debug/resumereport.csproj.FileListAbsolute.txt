@@ -1,0 +1,6 @@
+c:\users\madhurap\documents\visual studio 2015\Projects\resumereport\resumereport\bin\resumereport.dll.config
+c:\users\madhurap\documents\visual studio 2015\Projects\resumereport\resumereport\bin\resumereport.dll
+c:\users\madhurap\documents\visual studio 2015\Projects\resumereport\resumereport\bin\resumereport.pdb
+c:\users\madhurap\documents\visual studio 2015\Projects\resumereport\resumereport\obj\Debug\resumereport.csprojResolveAssemblyReference.cache
+c:\users\madhurap\documents\visual studio 2015\Projects\resumereport\resumereport\obj\Debug\resumereport.dll
+c:\users\madhurap\documents\visual studio 2015\Projects\resumereport\resumereport\obj\Debug\resumereport.pdb
